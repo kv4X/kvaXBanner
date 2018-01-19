@@ -1,0 +1,6 @@
+[TS3]
+Rekord=156
+Datum=19.01.2018
+[SAMP]
+Rekord=104
+Datum=01.12.2017
