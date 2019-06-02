@@ -8,5 +8,5 @@ Ubuntu 14.04 (sudo apt-get install php5-gd)<br>
 <br>
 <b>Screenshot of banner:</b>
 <p align="center">
-  <img src="screenshot.png" width="350" title="screenshot">
+  <img src="screenshot.png" width="650" title="screenshot">
 </p>
